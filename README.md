@@ -2,7 +2,7 @@
 
 <!--
 **abrildur/abrildur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 🔭 I’m currently working on how to become a better front-end developer.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I'm Abril. 
-- 🔭 I’m currently working on how to become a better front-end developer.
 - 🌱 I’m currently learning UX/UI Design, Vue.JS and Python.
 - 😄 Pronouns: she/her
