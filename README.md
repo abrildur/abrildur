@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 I'm Abril. 
 - 🔭 I’m currently working on how to become a better front-end developer.
-- 🌱 I’m currently learning UX/UI Design, Angular JS, VueJS and Python.
+- 🌱 I’m currently learning UX/UI Design, Vue.JS and Python.
 - 😄 Pronouns: she/her
