@@ -20,19 +20,15 @@ Here are some ideas to get you started:
 👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/) and add to my knowledge! 
 -->
 
-I'm Abril. 
-- 🌱 I’m currently learning UX/UI Design, Vue.JS and Python.
-- 😄 Pronouns: she/her
-
-
-
 ## Hey! I'm Abril. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![GitHub abrildur](https://img.shields.io/github/followers/vermakhushboo?label=follow&style=social)](https://github.com/abrildur)
 [![Linkedin: Abril](https://img.shields.io/badge/-Abril%20Urena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abrilurena/)](https://www.linkedin.com/in/abrilurena/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abrildur.id&left_color=green&right_color=blue)
-  
-I develop software, build technical communities, create content and love meeting new people!
+
+- 🌱 I’m currently learning UX/UI Design, Vue.JS and Python.
+- 😄 Pronouns: she/her
+- I develop software, build technical communities, create content and love meeting new people!
 
 
 [![Abril's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrildur&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/abrildur/github-readme-stats)
