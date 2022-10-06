@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Hey! I'm Abril. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![GitHub abrildur](https://img.shields.io/github/followers/abrildaur?label=follow&style=social)](https://github.com/abrildur)
+[![GitHub abrildur](https://img.shields.io/github/followers/abrildur?label=follow&style=social)](https://github.com/abrildur)
 [![Linkedin: Abril](https://img.shields.io/badge/-Abril%20Urena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abrilurena/)](https://www.linkedin.com/in/abrilurena/)
 
 - 🌱 I’m currently learning UX/UI Design, Vue.JS and Python.
