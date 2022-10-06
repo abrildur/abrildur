@@ -11,9 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
-[![Medium Badge](https://img.shields.io/badge/-@Khushboo%20Verma-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@abriluren)](https://medium.com/abrilure)
 
-[![Twitter: Abril (https://img.shields.io/twitter/follow/khushbooverma_?style=social)](https://twitter.com/abrildaur)
+[![Twitter: Abril (https://img.shields.io/twitter/follow/abrildaur?style=social)](https://twitter.com/abrildaur)
 
 👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/) and add to my knowledge! 
 -->
